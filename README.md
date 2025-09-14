@@ -3,7 +3,7 @@
 ![Banner](/assets/banner_new.png)
 
 This repository is a comprehensive collection of practical examples, tutorials, and recipes for building powerful LLM-powered applications. From simple chatbots to advanced AI agents, these projects serve as a guide for developers working with various AI frameworks and tools.
-
+ 
 Powered by [Nebius AI Studio](https://dub.sh/nebius) - your one-stop platform for building and deploying AI applications.
 
 ## 🚀 Featured AI Agent Frameworks
